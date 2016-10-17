@@ -1,0 +1,4 @@
+1、github上创建仓库
+2、在本地对应文件夹下面调出gitbash命令行，并输入git clone https://xxxxxx.xxxxx.xxxxxx(github上克隆地址)   创建本地仓库
+3、本地仓库创建好后，在该仓库下修改完文件以后，调出gitbash命令行，并输入git commit -m "一段描述"
+4、之后输入git push origin master 回车上传完毕（首次创建仓库会输入Github账号，密码键入时候不会显示！！！）
